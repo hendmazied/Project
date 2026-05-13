@@ -1,8 +1,8 @@
 {
-    "name": "DVIT Log Full Tracking",
+    "name": "Log Full Tracking",
     "version": "1.0",
     'depends': ['product', 'account', 'analytic', 'mail', 'mrp'],
-    "author": "DVIT",
+    "author": "hend",
     "category": "Inventory",
     "summary": "Track all product field changes in chatter",
     'data': [
